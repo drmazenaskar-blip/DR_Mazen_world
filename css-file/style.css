@@ -2154,6 +2154,11 @@ footer .copyright span {
 footer .copyright i {
     color: white;
 }
+@media (max-width: 767px){
+    footer .btn-up {
+        left: 90%;
+    }
+}
 
 /* ========================================================= */
 /* ==========start of Keyferame========= */
